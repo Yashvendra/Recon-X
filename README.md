@@ -22,6 +22,8 @@ $ sudo ./install.sh
 ```
 $ reconX
 ```
+### Upcoming Update
+The second mode of the script will be functional very soon, stay tuned :)
 
 ### Gallery
 <a href="https://ibb.co/DRvTnyy"><img src="https://i.ibb.co/QKTtGRR/Screenshot-from-2019-12-17-00-31-45.png" alt="Screenshot-from-2019-12-17-00-31-45" border="0"></a>
