@@ -1,3 +1,4 @@
+##### Note: The second mode of this tool isn't out yet & will be out soon. Only the first mode is funtional for now.
 <h1 align="center">Recon-X</h4>
 
 
