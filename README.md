@@ -1,4 +1,3 @@
-##### Note: The second mode of this tool isn't out yet & will be out soon. Only the first mode is funtional for now.
 <h1 align="center">Recon-X</h4>
 
 
@@ -9,6 +8,8 @@
 <p>
 Recon-X is the ultimate tool to conveniently carry out the reconnaissance of your target and disocver its attacking surface. The tool itself comes with two options for installation. First is the API mode, that is based on hackertarget API making it light and efficient tool which can be used for the identification of potential vulnerabilities. However, the API is the free one so the scans are limited to 100 calls per day per IP. So either you can use proxy to change your public IP after API counter exceedes, or you can go with the <b>second mode</b> of this tool, which uses the best OSINT tools available on github, making this tool a beast for doing reconnaissance. 
 </p>
+
+##### Note: The second mode of this tool isn't out yet & will be out soon. Only the first mode is funtional for now.
 
 ### Installation
 Run `install.sh` as sudo and it will automatically install AutoXploit.
